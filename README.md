@@ -27,9 +27,9 @@ I'm a freelance web developer who loves building clean, responsive, and high-per
 ### 🛠 Tech Stack
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0f172a?style=flat-square&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1e293b?style=flat-square&logo=typescript)
 ---
 
 ### 📫 Reach Me
