@@ -10,7 +10,7 @@
 I'm a freelance web developer who loves building clean, responsive, and high-performing websites. Whether it's a simple landing page or a full-scale SaaS app, I enjoy making digital ideas come to life.
 
 - 🔨 Currently working on: *Dumb Human Benchmark*
-- 🎯 Goal: Build weird projects until I get hired
+- 🎯 Goal: Build projects until I get hired
 - 💡 Interests: React, Next.js, TailwindCSS, SaaS ideas
 
 ---
@@ -44,5 +44,5 @@ I'm a freelance web developer who loves building clean, responsive, and high-per
 </p>
 
 <p align="center">
-  Let's build something weird together 💡
+  Let's build something together 💡
 </p>
