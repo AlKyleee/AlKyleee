@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kyle Guevarra 👋</h1>
+<h1 align="center">Hey, I'm Kyle 👋</h1>
 
 <p align="center">
   💻 Freelance Web Developer | ☕ Coffee-fueled Coder
