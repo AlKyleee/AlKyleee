@@ -9,7 +9,7 @@
 ### 🚀 About Me
 I'm a freelance web developer who loves building clean, responsive, and high-performing websites. Whether it's a simple landing page or a full-scale SaaS app, I enjoy making digital ideas come to life.
 
-- 🔨 Currently working on: *Dumb Human Benchmark*
+- 🔨 Currently working on: *Braincell Benchmark*
 - 🎯 Goal: Build projects until I get hired
 - 💡 Interests: React, Next.js, TailwindCSS, SaaS ideas
 
@@ -19,7 +19,7 @@ I'm a freelance web developer who loves building clean, responsive, and high-per
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🧠 Dumb Human Benchmark | A parody of the Human Benchmark site | [Demo](#) *(coming soon)* |
+| 🧠 Braincell Benchmark | A parody of the Human Benchmark site | [Demo](#) *(coming soon)* |
 | 🧾 Invoice Generator | Generate beautiful invoices. Save to LocalStorage. Built with Next.js | [invoice.alkyle.dev](https://invoice.alkyle.dev) |
 
 ---
