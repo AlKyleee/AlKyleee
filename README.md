@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Kyle Guevarra 👋</h1>
 
 <p align="center">
-  💻 Freelance Developer | ☕ Coffee-fueled Coder
+  💻 Freelance Web Developer | ☕ Coffee-fueled Coder
 </p>
 
 ---
