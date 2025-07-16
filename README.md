@@ -20,7 +20,7 @@ I'm a freelance web developer who loves building clean, responsive, and high-per
 | Project | Description | Link |
 |--------|-------------|------|
 | 🧠 Braincell Benchmark | A parody of the Human Benchmark site | [Demo](#) *(coming soon)* |
-| 🧾 Invoice Generator | Generate beautiful invoices. Save to LocalStorage. Built with Next.js | [invoice.alkyle.dev](https://invoice.alkyle.dev) |
+| 🧾 Invoice Generator | Generate beautiful invoices. Save to IndexedDB. Built with Next.js | [invoice.alkyle.dev](https://invoice.alkyle.dev) |
 
 ---
 
